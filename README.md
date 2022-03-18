@@ -9,7 +9,7 @@ Um die Funktionen zu erstellen, soll man erst (falls noch nicht geschehen) auf d
 
 Dann wird die Registerkarte "Entwicklertools" im Menüband angezeigt
 
-Diese Registerkarte hat eine Option "Visual Basis"; klicken Sie darauf und Sie sehen den Code.
+Diese Registerkarte hat eine Option "Visual Basic"; klicken Sie darauf und Sie sehen den Code.
 
 Das Programm kann dort ausgeführt und verändert werden.
 
